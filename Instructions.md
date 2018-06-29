@@ -6,15 +6,15 @@ Put the terminal in the “backend” folder and run “npm install” to instal
 Then run “npm start”. Both the frontend and the backend will start on the http://localhost:3000 address.
 
 ## Technical choices.
-1.Vue framework
-2.Element component library
-3.webpack
+1. Vue framework
+2. Element component library
+3. webpack
 
 IDE is ATOM
 
 ## Possible future improvements
-1.The column of ContactCount is unable to sort. Backend sql doesn't support sorting by ContactCount.
-2.For now the frontend lacks of user guidance and false hints.
+1. The column of ContactCount is unable to sort. Backend sql doesn't support sorting by ContactCount.
+2. For now the frontend lacks of user guidance and false hints.
 
 ## Strategy to track user actions and detect anomalies when in production
 Recording all the requests that triggered by the user and generate a log file.
