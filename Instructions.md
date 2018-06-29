@@ -6,9 +6,7 @@ Put the terminal in the “backend” folder and run “npm install” to instal
 Then run “npm start”. Both the frontend and the backend will start on the http://localhost:3000 address.
 
 ## Technical choices.
-Vue framework
-Element component library
-webpack
+Vue framework | Element component library | webpack
 
 IDE is ATOM
 
