@@ -9,8 +9,7 @@ Then run “npm start”. Both the frontend and the backend will start on the ht
 1. Vue framework
 2. Element component library
 3. webpack
-
-IDE is ATOM
+4. IDE is ATOM
 
 ## Possible future improvements
 1. The column of ContactCount is unable to sort. Backend sql doesn't support sorting by ContactCount.
